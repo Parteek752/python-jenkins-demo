@@ -1,6 +1,6 @@
  # 🚀 Continuous Integration (CI)
 
-![Image](https://github.com/user-attachments/assets/1beca9bf-8204-4046-b39e-f0d251257e9d)
+![Image](https://github.com/user-attachments/assets/45b1533b-d458-4673-9cd6-bb22bcfaea92)
 
 ## 📘 What is Continuous Integration (CI)?
 
